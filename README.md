@@ -1,1 +1,2 @@
-# LawrenceX-OIC
+# my first repo 
+# LawrenceX-OIC 
